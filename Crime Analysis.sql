@@ -159,9 +159,6 @@ on
 y2013.year=y2012.year+1
 where y2013.year =2013
 
-
-
-
 -- INDEXING
 
 select burglary from CrimeAnalysis..crimes
